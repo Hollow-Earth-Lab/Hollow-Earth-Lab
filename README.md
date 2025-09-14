@@ -17,7 +17,7 @@
 - [dotnet-lab](https://github.com/Hollow-Earth-Lab/dotnet-lab): Exploring .NET and C# through hands-on projects.
 
 ## 🌱 Currently Learning
-- Advanced Java
+- Core Java
 - ASP.NET Core & C#
 - Python for automation and data
 
