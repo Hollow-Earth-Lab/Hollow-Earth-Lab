@@ -15,6 +15,7 @@
 ## 🌟 Featured Repositories
 - [java-learning-lab](https://github.com/Hollow-Earth-Lab/java-learning-lab): My journey and experiments with Java.
 - [dotnet-lab](https://github.com/Hollow-Earth-Lab/dotnet-lab): Exploring .NET and C# through hands-on projects.
+- [python-lab](https://github.com/Hollow-Earth-Lab/python-lab): My experiments with Python. Scripting, automation, and data analysis.
 
 ## 🌱 Currently Learning
 - Core Java
